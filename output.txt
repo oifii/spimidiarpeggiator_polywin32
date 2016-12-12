@@ -1,0 +1,35 @@
+Q49 maps to 11
+Out To MIDI Yoke:  1 maps to 13
+MIDI output devices:
+0: MMSystem, Microsoft MIDI Mapper
+12: MMSystem, Microsoft GS Wavetable Synth
+13: MMSystem, Out To MIDI Yoke:  1
+14: MMSystem, Out To MIDI Yoke:  2
+15: MMSystem, Out To MIDI Yoke:  3
+16: MMSystem, Out To MIDI Yoke:  4
+17: MMSystem, Out To MIDI Yoke:  5
+18: MMSystem, Out To MIDI Yoke:  6
+19: MMSystem, Out To MIDI Yoke:  7
+20: MMSystem, Out To MIDI Yoke:  8
+21: MMSystem, E-DSP MIDI Port [FFC0]
+22: MMSystem, E-DSP MIDI Port 2 [FFC0]
+23: MMSystem, Q49
+device 13 selected
+MIDI input devices:
+1: MMSystem, In From MIDI Yoke:  1
+2: MMSystem, In From MIDI Yoke:  2
+3: MMSystem, In From MIDI Yoke:  3
+4: MMSystem, In From MIDI Yoke:  4
+5: MMSystem, In From MIDI Yoke:  5
+6: MMSystem, In From MIDI Yoke:  6
+7: MMSystem, In From MIDI Yoke:  7
+8: MMSystem, In From MIDI Yoke:  8
+9: MMSystem, E-DSP MIDI Port [FFC0]
+10: MMSystem, E-DSP MIDI Port 2 [FFC0]
+11: MMSystem, Q49
+device 11 selected
+*************************
+midi input port CONNECTED
+*************************
+NoteOn  Chan  0 Key  38 d2  Vel 56
+NoteOff Chan  0 Key  38 d2  Vel 64

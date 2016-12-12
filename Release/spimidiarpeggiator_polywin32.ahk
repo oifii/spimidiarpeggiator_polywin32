@@ -1,0 +1,4 @@
+WinMinimize ahk_class SPIMIDIARPEGGIATOR_POLYWIN32
+Sleep 100
+ExitApp
+

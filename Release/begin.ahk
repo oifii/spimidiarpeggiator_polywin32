@@ -1,0 +1,1 @@
+msgbox this is spicounter begin.ahk
